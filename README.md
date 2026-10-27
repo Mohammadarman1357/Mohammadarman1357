@@ -107,8 +107,6 @@ I enjoy turning ideas into practical products, crafting user-friendly interfaces
   <a href="https://github.com/Mohammadarman1357?tab=repositories"><strong>Explore all my repositories →</strong></a>
 </p>
 
-> **Before publishing:** replace general repository links with the exact repository URLs for each project. Only add project-specific technologies, features, screenshots, or metrics that you can verify.
-
 ## GitHub Analytics
 
 <div align="center">
