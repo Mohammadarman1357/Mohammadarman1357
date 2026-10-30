@@ -93,7 +93,7 @@
 
 </div>
 
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> 🏢 FEATURED PROJECTS :</b>
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> FEATURED PROJECTS :</b>
 
 <table>
   <tr>
@@ -276,7 +276,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:764BA2&height=3&section=header" width="100%" alt="Divider"/>
   <br/>
 
-## Let's Connect & Collaborate
+## 🤙 Let's Connect & Collaborate
 
  <div align="center">
 
@@ -287,11 +287,10 @@ I'm always glad to connect with developers, exchange ideas, and explore meaningf
 <a href="mailto:armanhabibweb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 **Thanks for visiting my profile. Keep building, keep growing.**
-
-</div>
-
-  <br/> 
+ 
+ <br/>
   <img src="https://komarev.com/ghpvc/?username=Mohammadarman1357&label=PROFILE%20VISITORS&color=667EEA&style=for-the-badge" alt="Profile Visitors"/>
+</div>
 
 </div>
 
