@@ -114,10 +114,10 @@
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛍️ SmartDeals</h3>
-      <p>A full-stack marketplace application involving deals and bidding functionality.</p>
-      <a href="https://github.com/Mohammadarman1357?tab=repositories"><strong>Explore repositories ↗</strong></a>
+   <td width="50%" valign="top">
+     <h3>🚚 Zap Shift</h3>
+     <p>A smart parcel management and delivery platform featuring role-based dashboards, automated pricing, parcel tracking, OTP verification, and nationwide logistics management.</p>
+     <a href="https://zap-shift-c1048.web.app/"><strong>Live Preview ↗</strong></a>
    </td>
     <td width="50%" valign="top">
       <h3>🚗 Rent wheels</h3>
